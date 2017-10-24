@@ -1,0 +1,24 @@
+{
+    "name": "rebirthtobi/qube-rbac",
+    "description": "This is a laravel package for role based access management that help in managing the roles and permission of each user from the frontend",
+    "type": "library",
+    "keywords": ["laravel","illuminate","auth","roles","rbac","permission","gui","laravel package"],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/console": "~5.2",
+        "illuminate/support": "~5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobi Taiwo",
+            "email": "ttobi4@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "autoload": {
+        "psr-4": {
+            "RebirthTobi\\QubeRbac\\qube-rbac\\": "src/"
+        }
+    }
+}
