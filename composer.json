@@ -5,8 +5,7 @@
     "keywords": ["laravel","illuminate","auth","roles","rbac","permission","gui","laravel package"],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/console": "~5.2",
-        "illuminate/support": "~5.2"
+        "laravel/framework": "~5.4",
     },
     "license": "MIT",
     "authors": [
