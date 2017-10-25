@@ -14,10 +14,10 @@
             "email": "ttobi4@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "RebirthTobi\\QubeRbac\\qube-rbac\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
