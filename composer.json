@@ -5,7 +5,7 @@
     "keywords": ["laravel","illuminate","auth","roles","rbac","permission","gui","laravel package"],
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "~5.4",
+        "laravel/framework": "~5.4"
     },
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
             "email": "ttobi4@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "RebirthTobi\\QubeRbac\\qube-rbac\\": "src/"
